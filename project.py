@@ -12,7 +12,7 @@ QUESTIONS= {
     "How many Turkish Super League championships does Galatasaray have ":[
         "23","33","13","20"
     ],
-    "Who is Fatih  for Galatasaray": [
+    "Who is Fatih Terim for Galatasaray": [
         "Legend","Coach","Founder","Sponsor"
     ],
     "Which team is the top rival of Galatasaray":[
